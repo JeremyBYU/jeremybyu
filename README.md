@@ -1,6 +1,6 @@
 ![Hi, I'm Jeremy. I'm a Roboticist and Software Engineer](https://github.com/jeremybyu/jeremybyu/raw/main/assets/banner.gif)
 
-My area of expertise is in machine learning, systems modeling, simulation, and developing robust decision-making strategies. I enjoy programming in C++, Python, and using geometry to describe our world. Currently working on a PhD in Robotics at the University of Michigan (ETA 2021). 
+My area of expertise is in machine learning, systems modeling, simulation, and developing robust decision-making strategies. I enjoy programming in C++, Python, and using geometry to describe our world.
 
 ## My Work
 
